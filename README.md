@@ -13,3 +13,8 @@ To run the Streamlit application, follow the steps below:
    ```bash
    python -m streamlit run main.py
 
+
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.186.37:8501   
+
