@@ -15,6 +15,6 @@ To run the Streamlit application, follow the steps below:
 
 
 
-Local URL: http://localhost:8501
+Local URL: http://localhost:8501<br/>
 Network URL: http://192.168.186.37:8501   
 
